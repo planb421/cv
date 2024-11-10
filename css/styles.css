@@ -1,3 +1,4 @@
+
 body {
     color: #40514E;
     margin: 0px;
@@ -161,4 +162,12 @@ a:hover {
     .top-img {
         display: none;
     }
+    body {
+        text-align: center;
+    }
+
+    .intro {
+        width: 20rem;
+    }
+
 }
